@@ -1,0 +1,21 @@
+{
+  "name": "css-workshop",
+  "version": "0.0.0",
+  "description": "css workshop",
+  "scripts": {
+    "preinstall": "npx -y only-allow pnpm"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chobe/css-workshop.git"
+  },
+  "author": "Roberto Morales",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chobe/css-workshop/issues"
+  },
+  "homepage": "https://github.com/chobe/css-workshop#readme",
+  "devDependencies": {
+    "@changesets/cli": "^2.14.1"
+  }
+}
