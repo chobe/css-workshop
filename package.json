@@ -16,6 +16,6 @@
   },
   "homepage": "https://github.com/chobe/css-workshop#readme",
   "devDependencies": {
-    "@changesets/cli": "^2.14.1"
+    "@changesets/cli": "2.16.0"
   }
 }
