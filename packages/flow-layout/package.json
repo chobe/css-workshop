@@ -7,7 +7,7 @@
   "author": "Roberto Morales",
   "license": "MIT",
   "dependencies": {
-    "parcel": "^2.0.0-beta.2"
+    "parcel": "2.0.0-nightly.668"
   },
   "resolutions": {
     "@babel/preset-env": "7.13.10"
